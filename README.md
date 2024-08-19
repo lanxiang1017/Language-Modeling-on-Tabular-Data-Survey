@@ -1,5 +1,6 @@
 # Language Modeling on Tabular Data Survey
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) 
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green)
 
 This is the repository of **Language Modeling on Tabular Data: A Survey of Foundations, Techniques and Evolution**, a comprehensive and systematic survey of the development of language modeling for tabular data.
