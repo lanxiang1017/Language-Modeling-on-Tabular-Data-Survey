@@ -11,4 +11,4 @@ This paper providing a systematic review of the development of language modeling
 
 ## Structure of Language Modeling on Tabular Data Survey
 
-<img src="./pics/structure.pdf" width="96%" height="96%">
+<img src="./pics/structure.png" width="96%" height="96%">
