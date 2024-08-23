@@ -3,7 +3,9 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) 
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green)
 
-This is the repository of **Language Modeling on Tabular Data: A Survey of Foundations, Techniques and Evolution**, a comprehensive and systematic survey of the development of language modeling for tabular data.
+This is the repository of **Language Modeling on Tabular Data: A Survey of Foundations, Techniques and Evolution** , a comprehensive and systematic survey of the development of language modeling for tabular data. For details, please refer to our paper:
+
+**Language Modeling on Tabular Data: A Survey of Foundations, Techniques and Evolution**  [[Paper](https://arxiv.org/pdf/2408.10548)]
 
 *We will regularly update this repo with the latest resources. Please feel free to submit pull requests or contact us if you discover any relevant papers that are not yet included.*
 
