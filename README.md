@@ -9,7 +9,7 @@ This is the repository of **Language Modeling on Tabular Data: A Survey of Found
 
 *We will regularly update this repo with the latest resources. Please feel free to submit pull requests or contact us if you discover any relevant papers that are not yet included.*
 
-## Abstract
+## About This Survey
 This paper providing a systematic review of the development of language modeling for tabular data, encompassing: 
 * a categorization of different tabular data structures and data types;
 * a review of key datasets used in model training and tasks used for evaluation;
