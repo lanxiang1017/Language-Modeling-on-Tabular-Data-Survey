@@ -44,17 +44,17 @@ This paper providing a systematic review of the development of language modeling
 
 ### PLM-based Methods
 
-* TaBERT: Pretraining for Joint Understanding of Textual and Tabular Data. *ACL 2020* [[Paper]([TaBERT: Pretraining for Joint Understanding of Textual and Tabular Data (aclanthology.org)](https://aclanthology.org/2020.acl-main.745.pdf))]
-* TaPas: Weakly Supervised Table Parsing via Pre-training. *ACL 2020* [[Paper]([TaPas: Weakly Supervised Table Parsing via Pre-training (aclanthology.org)](https://aclanthology.org/2020.acl-main.398.pdf))]
-* TAPEX: Table Pre-training via Learning a Neural SQL Executor. ICLR 2022 [[Paper]([pdf (openreview.net)](https://openreview.net/pdf?id=O50443AsCP))]
-* MultiHiertt: Numerical Reasoning over Multi Hierarchical Tabular and Textual Data. ACL 2022 [[Paper]([aclanthology.org/2022.acl-long.454.pdf](https://aclanthology.org/2022.acl-long.454.pdf))]
+* TaBERT: Pretraining for Joint Understanding of Textual and Tabular Data. *ACL 2020* [Paper](https://aclanthology.org/2020.acl-main.745.pdf)
+* TaPas: Weakly Supervised Table Parsing via Pre-training. *ACL 2020* [[Paper](https://aclanthology.org/2020.acl-main.398.pdf)]
+* TAPEX: Table Pre-training via Learning a Neural SQL Executor. ICLR 2022 [[Paper](https://openreview.net/pdf?id=O50443AsCP)]
+* MultiHiertt: Numerical Reasoning over Multi Hierarchical Tabular and Textual Data. ACL 2022 [[Paper](https://aclanthology.org/2022.acl-long.454.pdf)]
 * TableQuery: Querying tabular data with natural language. Preprint 2022 [[Paper](https://arxiv.org/pdf/2202.00454)]
 * NAPG: Non-Autoregressive Program Generation for Hybrid Tabular-Textual Question Answering. NLPCC 2023 [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-44693-1_46)]
 * Few-Shot Tabular Data Enrichment Using Fine-Tuned Transformer Architectures. ACL 2022 [[Paper](https://aclanthology.org/2022.acl-long.111.pdf)]
 * P-Transformer: A Prompt-based Multimodal Transformer Architecture For Medical Tabular Data. Preprint 2023 [[Paper](https://arxiv.org/pdf/2303.17408)]
 * CTRL: Connect Collaborative and Language Model for CTR Prediction. Preprint 2023 [[Paper](https://arxiv.org/pdf/2306.02841)]
 * Named Entity Recognition in Industrial Tables using Tabular Language Models. EMNLP 2022 [[Paper](https://aclanthology.org/2022.emnlp-industry.35.pdf)]
-* TABBIE: Pretrained Representations of Tabular Data. NAACL 2021 [[Paper][https://aclanthology.org/2021.naacl-main.270.pdf]]
+* TABBIE: Pretrained Representations of Tabular Data. NAACL 2021 [[Paper](https://aclanthology.org/2021.naacl-main.270.pdf)]
 * External Knowledge Infusion for Tabular Pre-training Models with Dual-adapters. KDD 2022 [[Paper](https://dl.acm.org/doi/abs/10.1145/3534678.3539403)]
 * Right for the Right Reason: Evidence Extraction for Trustworthy Tabular Reasoning. ACL 2022 [[Paper](https://aclanthology.org/2022.acl-long.231.pdf)]
 
