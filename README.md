@@ -40,6 +40,7 @@ This paper providing a systematic review of the development of language modeling
 * Confronting LLMs with Traditional ML: Rethinking the Fairness of Large Language Models in Tabular Classifications. *NAACL 2024* [[Paper](https://arxiv.org/pdf/2310.14607v2)]
 * DTT: An Example-Driven Tabular Transformer for Joinability by Leveraging Large Language Models. *SIGMOD 2024* [[Paper](https://arxiv.org/pdf/2303.06748)]
 * Chain-of-Table: Evolving Tables in the Reasoning Chain for Table Understanding. *ICLR 2024* [[Paper](https://arxiv.org/pdf/2401.04398)]
+* Efficient Prompting for LLM-Based Generative Internet of Things (Tab-PoT: Table-QA with Program Aided LLM).  *IEEE Internet of Things Jounal* [[Paper](https://ieeexplore.ieee.org/document/10705427)]
 
 ### PLM-based Methods
 
