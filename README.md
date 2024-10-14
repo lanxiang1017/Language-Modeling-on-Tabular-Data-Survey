@@ -47,24 +47,24 @@ This paper providing a systematic review of the development of language modeling
 
 ### PLM-based Methods
 **```Year 2024```**
-* Making Pre-trained Language Models Great on Tabular Prediction. ICLR 2024 [[Paper](https://arxiv.org/pdf/2403.01841)]
+* Making Pre-trained Language Models Great on Tabular Prediction. *ICLR 2024* [[Paper](https://arxiv.org/pdf/2403.01841)]
 
 **```Year 2023```**
-* NAPG: Non-Autoregressive Program Generation for Hybrid Tabular-Textual Question Answering. NLPCC 2023 [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-44693-1_46)]
-* CTRL: Connect Collaborative and Language Model for CTR Prediction. Preprint 2023 [[Paper](https://arxiv.org/pdf/2306.02841)]
-* P-Transformer: A Prompt-based Multimodal Transformer Architecture For Medical Tabular Data. Preprint 2023 [[Paper](https://arxiv.org/pdf/2303.17408)]
+* NAPG: Non-Autoregressive Program Generation for Hybrid Tabular-Textual Question Answering. *NLPCC 2023* [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-44693-1_46)]
+* CTRL: Connect Collaborative and Language Model for CTR Prediction. *Preprint 2023* [[Paper](https://arxiv.org/pdf/2306.02841)]
+* P-Transformer: A Prompt-based Multimodal Transformer Architecture For Medical Tabular Data. *Preprint 2023* [[Paper](https://arxiv.org/pdf/2303.17408)]
 
 **```Year 2022```**
-* TAPEX: Table Pre-training via Learning a Neural SQL Executor. ICLR 2022 [[Paper](https://openreview.net/pdf?id=O50443AsCP)]
-* Few-Shot Tabular Data Enrichment Using Fine-Tuned Transformer Architectures. ACL 2022 [[Paper](https://aclanthology.org/2022.acl-long.111.pdf)]
-* Named Entity Recognition in Industrial Tables using Tabular Language Models. EMNLP 2022 [[Paper](https://aclanthology.org/2022.emnlp-industry.35.pdf)]
-* External Knowledge Infusion for Tabular Pre-training Models with Dual-adapters. KDD 2022 [[Paper](https://dl.acm.org/doi/abs/10.1145/3534678.3539403)]
-* Right for the Right Reason: Evidence Extraction for Trustworthy Tabular Reasoning. ACL 2022 [[Paper](https://aclanthology.org/2022.acl-long.231.pdf)]
-* MultiHiertt: Numerical Reasoning over Multi Hierarchical Tabular and Textual Data. ACL 2022 [[Paper](https://aclanthology.org/2022.acl-long.454.pdf)]
-* TableQuery: Querying tabular data with natural language. Preprint 2022 [[Paper](https://arxiv.org/pdf/2202.00454)]
+* TAPEX: Table Pre-training via Learning a Neural SQL Executor. *ICLR 2022* [[Paper](https://openreview.net/pdf?id=O50443AsCP)]
+* Few-Shot Tabular Data Enrichment Using Fine-Tuned Transformer Architectures. *ACL 2022* [[Paper](https://aclanthology.org/2022.acl-long.111.pdf)]
+* Named Entity Recognition in Industrial Tables using Tabular Language Models. *EMNLP 2022* [[Paper](https://aclanthology.org/2022.emnlp-industry.35.pdf)]
+* External Knowledge Infusion for Tabular Pre-training Models with Dual-adapters. *KDD 2022* [[Paper](https://dl.acm.org/doi/abs/10.1145/3534678.3539403)]
+* Right for the Right Reason: Evidence Extraction for Trustworthy Tabular Reasoning. *ACL 2022* [[Paper](https://aclanthology.org/2022.acl-long.231.pdf)]
+* MultiHiertt: Numerical Reasoning over Multi Hierarchical Tabular and Textual Data. *ACL 2022* [[Paper](https://aclanthology.org/2022.acl-long.454.pdf)]
+* TableQuery: Querying tabular data with natural language. *Preprint 2022* [[Paper](https://arxiv.org/pdf/2202.00454)]
 
 **```Year 2021```**
-* TABBIE: Pretrained Representations of Tabular Data. NAACL 2021 [[Paper](https://aclanthology.org/2021.naacl-main.270.pdf)]
+* TABBIE: Pretrained Representations of Tabular Data. *NAACL 2021* [[Paper](https://aclanthology.org/2021.naacl-main.270.pdf)]
 
 **```Year 2020```**
 * TaBERT: Pretraining for Joint Understanding of Textual and Tabular Data. *ACL 2020* [Paper](https://aclanthology.org/2020.acl-main.745.pdf)
@@ -73,28 +73,28 @@ This paper providing a systematic review of the development of language modeling
 
 ### Pre-training Methods
 **```Year 2024```**
-* UniTabE: A Universal Pretraining Protocol for Tabular Foundation Model in Data Science. ICLR 2024 [[Paper](https://openreview.net/pdf?id=6LLho5X6xV)]
+* UniTabE: A Universal Pretraining Protocol for Tabular Foundation Model in Data Science. *ICLR 2024* [[Paper](https://openreview.net/pdf?id=6LLho5X6xV)]
 
 **```Year 2023```**
-* FATA-Trans: Field And Time-Aware Transformer for Sequential Tabular Data. CIKM 2023 [[Paper](https://dl.acm.org/doi/abs/10.1145/3583780.3614879)]
-* TabRet: Pre-training Transformer-based Tabular Models for Unseen Columns. ICLR 2023 Workshop [[Paper](https://openreview.net/pdf?id=qnRlh8BdMY)]
-* CT-BERT: learning better tabular representations through cross-table pre-training. Preprint 2023 [[Paper](https://arxiv.org/pdf/2307.04308)]
-* One Transformer for All Time Series: Representing and Training with Time-Dependent Heterogeneous Tabular Data. Preprint 2023 [[Paper](https://arxiv.org/pdf/2302.06375)]
+* FATA-Trans: Field And Time-Aware Transformer for Sequential Tabular Data. *CIKM 2023* [[Paper](https://dl.acm.org/doi/abs/10.1145/3583780.3614879)]
+* TabRet: Pre-training Transformer-based Tabular Models for Unseen Columns. *ICLR 2023* Workshop [[Paper](https://openreview.net/pdf?id=qnRlh8BdMY)]
+* CT-BERT: learning better tabular representations through cross-table pre-training. *Preprint 2023* [[Paper](https://arxiv.org/pdf/2307.04308)]
+* One Transformer for All Time Series: Representing and Training with Time-Dependent Heterogeneous Tabular Data. *Preprint 2023* [[Paper](https://arxiv.org/pdf/2302.06375)]
 
 **```Year 2022```**
-* MET: Masked Encoding for Tabular Data. NeurIPS 2022 Workshop TRL [[Paper](https://openreview.net/pdf?id=vMHs3HR7r0A)]
-* TableFormer: Robust Transformer Modeling for Table-Text Encoding. ACL 2022 [[Paper](https://aclanthology.org/2022.acl-long.40.pdf)]
-* TURL: Table Understanding through Representation Learning. SIGMOD Record 2022 [[Paper](https://dl.acm.org/doi/abs/10.1145/3542700.3542709)]
-* TransTab: Learning Transferable Tabular Transformers Across Tables. NeurIPS 2022 [[Paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/1377f76686d56439a2bd7a91859972f5-Paper-Conference.pdf)]
-* Self-supervised Representation Learning Across Sequential and Tabular Features Using Transformers. NeurIPS 2022 Workshop TRL [[Paper](https://openreview.net/pdf?id=wIIJlmr1Dsk)]
+* MET: Masked Encoding for Tabular Data. *NeurIPS 2022 Workshop TRL* [[Paper](https://openreview.net/pdf?id=vMHs3HR7r0A)]
+* TableFormer: Robust Transformer Modeling for Table-Text Encoding. *ACL 2022* [[Paper](https://aclanthology.org/2022.acl-long.40.pdf)]
+* TURL: Table Understanding through Representation Learning. *SIGMOD Record 2022* [[Paper](https://dl.acm.org/doi/abs/10.1145/3542700.3542709)]
+* TransTab: Learning Transferable Tabular Transformers Across Tables. *NeurIPS 2022* [[Paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/1377f76686d56439a2bd7a91859972f5-Paper-Conference.pdf)]
+* Self-supervised Representation Learning Across Sequential and Tabular Features Using Transformers. *NeurIPS 2022 Workshop TRL* [[Paper](https://openreview.net/pdf?id=wIIJlmr1Dsk)]
 
 **```Year 2021```**
-* Tabular Transformers for Modeling Multivariate Time Series. ICASSP 2021 [[Paper](https://ieeexplore.ieee.org/abstract/document/9414142)]
-* TUTA: Tree-based Transformers for Generally Structured Table Pre-training. SIGKDD 2021 [[Paper](https://dl.acm.org/doi/abs/10.1145/3447548.3467434)]
-* TAT-QA: A Question Answering Benchmark on a Hybrid of Tabular and Textual Content in Finance. IJCNLP 2021 [[Paper](https://aclanthology.org/2021.acl-long.254.pdf)]
+* Tabular Transformers for Modeling Multivariate Time Series. *ICASSP 2021* [[Paper](https://ieeexplore.ieee.org/abstract/document/9414142)]
+* TUTA: Tree-based Transformers for Generally Structured Table Pre-training. *SIGKDD 2021* [[Paper](https://dl.acm.org/doi/abs/10.1145/3447548.3467434)]
+* TAT-QA: A Question Answering Benchmark on a Hybrid of Tabular and Textual Content in Finance. *IJCNLP 2021* [[Paper](https://aclanthology.org/2021.acl-long.254.pdf)]
 
 **```Year 2020```**
-* TabTransformer: Tabular Data Modeling Using Contextual Embeddings. Preprint 2020 [[Paper](https://arxiv.org/pdf/2012.06678)]
+* TabTransformer: Tabular Data Modeling Using Contextual Embeddings. *Preprint 2020* [[Paper](https://arxiv.org/pdf/2012.06678)]
 
 **```Year 2019```**
-* Table2Vec: Neural Word and Entity Embeddings for Table Population and Retrieval. SIGIR 2019 [[Paper](https://dl.acm.org/doi/abs/10.1145/3331184.3331333)]
+* Table2Vec: Neural Word and Entity Embeddings for Table Population and Retrieval. *SIGIR 2019* [[Paper](https://dl.acm.org/doi/abs/10.1145/3331184.3331333)]
